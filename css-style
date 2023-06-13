@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    background-color: #e4f9f5;
+    font-family: 'Poppins', sans-serif;
+    
+} 
+
+.top-container{
+    background-color: #e4f9f5;
+    text-align: center;
+    padding: 5%;
+    
+
+}
+
+.middle-container{
+    
+   }
+    
+.project{
+    text-align: center;
+
+}
+
+.profile{
+    text-align: center;
+    
+}
+
+.dp{
+    
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+.skills{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    
+    
+    
+}
+
+.skill-row1{
+    margin-bottom: 20px;
+    display: inline-block;
+    
+}
+
+
+.computer{
+    padding-bottom: 50px;
+    height: 120px;
+    width: 120px;
+    float: left;
+}
+
+.project-img{
+    margin: 20px;
+    height: 120px;
+    width: 120px;
+    float: left;
+    justify-content: center;
+}
+
+.hobbies-img{
+    margin: 20px;
+    height: 120px;
+    width: 120px;
+    float: left;
+}
+
+.contact-me-img{
+    margin: 20px;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+
+.bottom-container{
+  text-align: center;
+   
+}
+
+
+
+.contact-me{
+    text-align: center;
+}
+
+p{
+    font-family: cursive;
+    margin-top: 0px;
+    color: black;
+}
+h1{
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+}
+
+h2{
+    color: #66bfbf;
+    text-align: center;
+
+    /* display: inline-block; */
+}
+
+h3{
+    color: #66bfbf;
+    text-align: center;
+}
+h4{
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+.web{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: relative;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    margin-left: 30px;
+}
